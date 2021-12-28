@@ -20,12 +20,13 @@
             android:orientation="vertical">
 
             <Button
+                android:id="@+id/calculator"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/teal_700"
-                android:text="A"
                 android:layout_weight="300"
-            ></Button>
+                android:background="@color/teal_700"
+                android:text="GO TO CALCULATOR"></Button>
+
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
