@@ -10,32 +10,32 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:weightSum="500"
-        android:orientation="horizontal">
+        android:orientation="vertical">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="250"
             android:weightSum="900"
-            android:orientation="vertical">
+            android:orientation="horizontal">
 
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
                 android:background="@color/teal_700"
                 android:text="A"
                 android:layout_weight="300"
-            ></Button>
+                ></Button>
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
                 android:background="@color/teal_200"
                 android:text="B"
                 android:layout_weight="300"
                 ></Button>
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
                 android:background="@color/teal_700"
                 android:text="C"
                 android:layout_weight="300"
@@ -48,25 +48,25 @@
             android:layout_height="match_parent"
             android:layout_weight="250"
             android:weightSum="900"
-            android:orientation="vertical">
+            android:orientation="horizontal">
 
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
                 android:background="@color/teal_200"
                 android:text="D"
                 android:layout_weight="300"
                 ></Button>
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
                 android:background="@color/teal_700"
                 android:text="E"
                 android:layout_weight="300"
                 ></Button>
             <Button
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
                 android:background="@color/teal_200"
                 android:text="F"
                 android:layout_weight="300"
