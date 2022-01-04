@@ -24,21 +24,25 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="300"
-                android:background="@color/teal_700"
-                android:text="GO TO CALCULATOR"></Button>
+                android:background="@color/orange"
+                android:textSize="10pt"
+                android:text="GO TO CALCULATOR"
+                ></Button>
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/teal_200"
+                android:background="@color/grey_1"
                 android:text="B"
+                android:textSize="15pt"
                 android:layout_weight="300"
                 ></Button>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/teal_700"
+                android:background="@color/grey_2"
                 android:text="C"
+                android:textSize="15pt"
                 android:layout_weight="300"
                 ></Button>
 
@@ -54,29 +58,30 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/teal_200"
+                android:background="@color/grey_1"
                 android:text="D"
+                android:textSize="15pt"
                 android:layout_weight="300"
                 ></Button>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/teal_700"
+                android:background="@color/grey_2"
                 android:text="E"
+                android:textSize="15pt"
                 android:layout_weight="300"
                 ></Button>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/teal_200"
+                android:background="@color/grey_1"
                 android:text="F"
+                android:rotation=""
+                android:textSize="15pt"
                 android:layout_weight="300"
                 ></Button>
 
         </LinearLayout>
-
-
-
 
     </LinearLayout>
 
