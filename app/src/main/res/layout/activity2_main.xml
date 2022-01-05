@@ -63,11 +63,10 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:background="@mipmap/div"
+                android:background="@mipmap/plus"
                 android:layout_weight="19"
                 android:backgroundTint="@color/white">
-
-            ></Button>
+                ></Button>
 
         </LinearLayout>
 
@@ -110,7 +109,7 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:background="@mipmap/plus"
+                android:background="@mipmap/subs"
                 android:layout_weight="19"
                 android:backgroundTint="@color/white"
                 ></Button>
@@ -157,7 +156,7 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:background="@mipmap/subs"
+                android:background="@mipmap/div"
                 android:layout_weight="19"
                 android:backgroundTint="@color/white"
                 ></Button>
@@ -186,7 +185,7 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:background="@mipmap/plus"
+                android:background="@mipmap/multi"
                 android:layout_weight="19"
                 android:backgroundTint="@color/white"
 
