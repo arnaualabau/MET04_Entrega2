@@ -76,7 +76,6 @@
                 android:layout_height="wrap_content"
                 android:background="@color/grey_1"
                 android:text="F"
-                android:rotation=""
                 android:textSize="15pt"
                 android:layout_weight="300"
                 ></Button>
