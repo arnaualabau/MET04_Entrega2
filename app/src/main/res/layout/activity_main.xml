@@ -27,7 +27,7 @@
                 android:background="@color/orange"
                 android:textSize="8pt"
                 android:text="GO TO CALCULATOR"
-                ></Button>
+                />
 
             <Button
                 android:layout_width="match_parent"
@@ -36,7 +36,7 @@
                 android:text="B"
                 android:textSize="15pt"
                 android:layout_weight="300"
-                ></Button>
+                />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -44,7 +44,7 @@
                 android:text="C"
                 android:textSize="15pt"
                 android:layout_weight="300"
-                ></Button>
+                />
 
         </LinearLayout>
 
@@ -62,7 +62,7 @@
                 android:text="D"
                 android:textSize="15pt"
                 android:layout_weight="300"
-                ></Button>
+                />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -70,7 +70,7 @@
                 android:text="E"
                 android:textSize="15pt"
                 android:layout_weight="300"
-                ></Button>
+                />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -78,7 +78,7 @@
                 android:text="F"
                 android:textSize="15pt"
                 android:layout_weight="300"
-                ></Button>
+                />
 
         </LinearLayout>
 
