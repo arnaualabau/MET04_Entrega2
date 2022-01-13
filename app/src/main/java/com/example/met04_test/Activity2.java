@@ -1,3 +1,4 @@
+/* Calculator Activity */
 package com.example.met04_test;
 
 import android.os.Bundle;

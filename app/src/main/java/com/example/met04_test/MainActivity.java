@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 //setContentView(R.layout.activity2_main);
                 startActivity(new Intent(MainActivity.this, Activity2.class));
             }
-        });
+        }); 
 
     }
 
