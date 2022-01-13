@@ -2,11 +2,9 @@
 package com.example.met04_test;
 
 import android.os.Bundle;
-import android.os.PersistableBundle;
-import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
-public class Activity2 extends AppCompatActivity {
+public class Activity3 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
