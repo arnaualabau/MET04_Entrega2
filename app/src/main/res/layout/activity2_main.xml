@@ -13,6 +13,7 @@
         android:orientation="vertical">
 
         <TextView
+            android:id="@+id/resultText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@color/black"
@@ -34,6 +35,7 @@
             android:background ="@color/black">
 
             <Button
+                android:id ="@+id/Button7"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/grey_1"
@@ -43,6 +45,7 @@
                 android:layout_margin="0.5mm"
                 ></Button>
             <Button
+                android:id ="@+id/Button8"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/grey_1"
@@ -52,6 +55,7 @@
                 android:layout_margin="0.5mm"
                 ></Button>
             <Button
+                android:id ="@+id/Button9"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/grey_1"
@@ -61,6 +65,7 @@
                 android:layout_margin="0.5mm"
                 ></Button>
             <Button
+                android:id ="@+id/ButtonSuma"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@mipmap/plus"
@@ -80,6 +85,7 @@
             android:background ="@color/black">
 
             <Button
+                android:id ="@+id/Button4"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/grey_1"
@@ -89,6 +95,7 @@
                 android:layout_margin="0.5mm"
                 ></Button>
             <Button
+                android:id ="@+id/Button5"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/grey_1"
@@ -98,6 +105,7 @@
                 android:layout_margin="0.5mm"
                 ></Button>
             <Button
+                android:id ="@+id/Button6"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/grey_1"
@@ -107,6 +115,7 @@
                 android:layout_margin="0.5mm"
                 ></Button>
             <Button
+                android:id ="@+id/ButtonResta"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@mipmap/subs"
@@ -127,6 +136,7 @@
 
 
         <Button
+                android:id ="@+id/Button1"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/grey_1"
@@ -136,6 +146,7 @@
                 android:layout_margin="0.5mm"
                 ></Button>
             <Button
+                android:id ="@+id/Button2"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/grey_1"
@@ -145,6 +156,7 @@
                 android:layout_margin="0.5mm"
                 ></Button>
             <Button
+                android:id ="@+id/Button3"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/grey_1"
@@ -154,6 +166,7 @@
                 android:layout_margin="0.5mm"
                 ></Button>
             <Button
+                android:id ="@+id/ButtonDivisio"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@mipmap/div"
@@ -173,6 +186,7 @@
             android:background="@color/black">
 
             <Button
+                android:id ="@+id/Button0"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/grey_1"
@@ -183,6 +197,7 @@
                 ></Button>
 
             <Button
+                android:id ="@+id/ButtonMultiplicacio"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@mipmap/multi"
@@ -203,6 +218,7 @@
             android:background="@color/black">
 
             <Button
+                android:id ="@+id/ButtonBorrar"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/orange"
@@ -214,6 +230,7 @@
                 ></Button>
 
             <Button
+                android:id ="@+id/ButtonEnter"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@color/orange"
@@ -224,6 +241,7 @@
                 ></Button>
 
             <Button
+                android:id ="@+id/ButtonIgual"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:background="@mipmap/equals"
